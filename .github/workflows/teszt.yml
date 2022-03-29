@@ -10,7 +10,7 @@ on:
 
 env:
   DOTNET_VERSION: '5.0.x'
-  TEST_PATH: tests/tests.csproj
+  TEST_PATH: WebShopProjektTests/WebShopProjektTests.csproj
 
 jobs:
   build-and-test:
